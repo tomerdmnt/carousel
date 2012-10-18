@@ -3,7 +3,7 @@
   "repo": "tomerdmnt/carousel",
   "description": "Simple carousel library",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": [ "ui", "carousel" ],
   "dependencies": {
     "component/classes": "*"
   },
