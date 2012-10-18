@@ -8,6 +8,11 @@
       window.addEventListener('load', function (e) {
         c = carousel(document.getElementById('carousel'));
       });
+
+      window.onkeyup = function (e) {
+        if (e.which === 39) c.next();
+        else if (e.which === 37) c.prev();
+      }
     </script>
     <style>
       body {
@@ -23,7 +28,8 @@
   </head>
   <body>
     <div id="carousel">
-      <div style="background-color: blue">
+      <div style="background-color: blue; font-color: white;">
+        <b>USE THE ARROW KEYS</b>
       </div>
       <div style="background-color: yellow">
       </div>
