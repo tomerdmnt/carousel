@@ -1,7 +1,7 @@
 
 # Carousel
 
-  Simple carousel library.
+  Simple carousel [component](http://github.com/component/component).
   Check out http://github.com/tomerdmnt/carousel-slide for the same thing with slide transition.
 
   ```html

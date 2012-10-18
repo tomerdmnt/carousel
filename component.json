@@ -1,7 +1,7 @@
 {
   "name": "carousel",
   "repo": "tomerdmnt/carousel",
-  "description": "Simple carousel library",
+  "description": "Simple carousel component",
   "version": "0.0.1",
   "keywords": [ "ui", "carousel" ],
   "dependencies": {
